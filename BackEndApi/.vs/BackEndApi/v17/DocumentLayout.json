@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maccg\\Desktop\\Evaluacion\\BackEndApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25623872-F3FD-41E4-9BA8-50BA770928D7}|BackEndApi\\BackEndApi.csproj|c:\\users\\maccg\\desktop\\evaluacion\\backendapi\\backendapi\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25623872-F3FD-41E4-9BA8-50BA770928D7}|BackEndApi\\BackEndApi.csproj|solutionrelative:backendapi\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25623872-F3FD-41E4-9BA8-50BA770928D7}|BackEndApi\\BackEndApi.csproj|c:\\users\\maccg\\desktop\\evaluacion\\backendapi\\backendapi\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25623872-F3FD-41E4-9BA8-50BA770928D7}|BackEndApi\\BackEndApi.csproj|solutionrelative:backendapi\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25623872-F3FD-41E4-9BA8-50BA770928D7}|BackEndApi\\BackEndApi.csproj|c:\\users\\maccg\\desktop\\evaluacion\\backendapi\\backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25623872-F3FD-41E4-9BA8-50BA770928D7}|BackEndApi\\BackEndApi.csproj|solutionrelative:backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25623872-F3FD-41E4-9BA8-50BA770928D7}|BackEndApi\\BackEndApi.csproj|c:\\users\\maccg\\desktop\\evaluacion\\backendapi\\backendapi\\models\\editarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25623872-F3FD-41E4-9BA8-50BA770928D7}|BackEndApi\\BackEndApi.csproj|solutionrelative:backendapi\\models\\editarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25623872-F3FD-41E4-9BA8-50BA770928D7}|BackEndApi\\BackEndApi.csproj|c:\\users\\maccg\\desktop\\evaluacion\\backendapi\\backendapi\\models\\insertarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25623872-F3FD-41E4-9BA8-50BA770928D7}|BackEndApi\\BackEndApi.csproj|solutionrelative:backendapi\\models\\insertarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25623872-F3FD-41E4-9BA8-50BA770928D7}|BackEndApi\\BackEndApi.csproj|c:\\users\\maccg\\desktop\\evaluacion\\backendapi\\backendapi\\models\\eliminarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25623872-F3FD-41E4-9BA8-50BA770928D7}|BackEndApi\\BackEndApi.csproj|solutionrelative:backendapi\\models\\eliminarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\maccg\\Desktop\\Evaluacion\\BackEndApi\\BackEndApi\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "BackEndApi\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\maccg\\Desktop\\Evaluacion\\BackEndApi\\BackEndApi\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "BackEndApi\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowGQAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T10:59:10.324Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maccg\\Desktop\\Evaluacion\\BackEndApi\\BackEndApi\\Program.cs",
+              "RelativeDocumentMoniker": "BackEndApi\\Program.cs",
+              "ToolTip": "C:\\Users\\maccg\\Desktop\\Evaluacion\\BackEndApi\\BackEndApi\\Program.cs",
+              "RelativeToolTip": "BackEndApi\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T08:09:43.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EliminarEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\maccg\\Desktop\\Evaluacion\\BackEndApi\\BackEndApi\\Models\\EliminarEmpleado.cs",
+              "RelativeDocumentMoniker": "BackEndApi\\Models\\EliminarEmpleado.cs",
+              "ToolTip": "C:\\Users\\maccg\\Desktop\\Evaluacion\\BackEndApi\\BackEndApi\\Models\\EliminarEmpleado.cs",
+              "RelativeToolTip": "BackEndApi\\Models\\EliminarEmpleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T13:42:56.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\maccg\\Desktop\\Evaluacion\\BackEndApi\\BackEndApi\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "BackEndApi\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\maccg\\Desktop\\Evaluacion\\BackEndApi\\BackEndApi\\Models\\Empleado.cs",
+              "RelativeToolTip": "BackEndApi\\Models\\Empleado.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T13:28:55.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditarEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\maccg\\Desktop\\Evaluacion\\BackEndApi\\BackEndApi\\Models\\EditarEmpleado.cs",
+              "RelativeDocumentMoniker": "BackEndApi\\Models\\EditarEmpleado.cs",
+              "ToolTip": "C:\\Users\\maccg\\Desktop\\Evaluacion\\BackEndApi\\BackEndApi\\Models\\EditarEmpleado.cs",
+              "RelativeToolTip": "BackEndApi\\Models\\EditarEmpleado.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T13:42:41.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InsertarEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\maccg\\Desktop\\Evaluacion\\BackEndApi\\BackEndApi\\Models\\InsertarEmpleado.cs",
+              "RelativeDocumentMoniker": "BackEndApi\\Models\\InsertarEmpleado.cs",
+              "ToolTip": "C:\\Users\\maccg\\Desktop\\Evaluacion\\BackEndApi\\BackEndApi\\Models\\InsertarEmpleado.cs",
+              "RelativeToolTip": "BackEndApi\\Models\\InsertarEmpleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T13:24:05.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

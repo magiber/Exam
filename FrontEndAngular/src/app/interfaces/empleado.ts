@@ -1,0 +1,15 @@
+export interface Empleado{
+    idEmpleado?: number,	
+    fotografia?: string,
+    nombre?: string,
+    apellidos?: string,
+    puesto?: string,
+    fechaNacimineto?: string,
+    fechaContraracion?: string,
+    direccion?: string,
+    telefono?: string,
+    correoElectronico?: string,
+    estado?: string,
+    puestoId?: number,
+    estadoId?: number,
+}
